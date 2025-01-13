@@ -1,0 +1,21 @@
+# Ignore the target directory
+target/
+
+# Ignore Cargo.lock for libraries (keep it for binaries)
+Cargo.lock
+
+# Ignore compiled binary files
+*.rs.bk
+*.rls
+
+# Ignore backup files
+*~
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore Rust format backup files
+*.pdb
