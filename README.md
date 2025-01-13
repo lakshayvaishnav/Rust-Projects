@@ -7,5 +7,6 @@ This repository contains all my Rust learnings and projects. Here, I will docume
 - **CLI COMPRESSION**: A command-line application for compressing your files.
 - CSV FILE READER: A tool to read csv files using rust.
 - JSON STRING READER: A tool to read json format in rust.
+- JSON WRITER: A tool to convert the string into json format.
 
 Feel free to explore and follow along as I learn and create!

@@ -35,7 +35,7 @@ fn main() {
     let result: Article = read_json_typed(json);
     println!(
         "\n\n The name of the paragraph is : {}",
-        result.paragraph[0].name
+        result.author
     );
 }
 
