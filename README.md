@@ -9,5 +9,6 @@ This repository contains all my Rust learnings and projects. Here, I will docume
 - JSON STRING READER: A tool to read json format in rust.
 - JSON WRITER: A tool to convert the string into json format.
 - GET-REQUEST: Code to make get request to a url.
-- ASYNC-AWAIT: code for implementing asynchronous programming.
+- ASYNC-AWAIT: Code for implementing asynchronous programming.
+- API-CALLS: Code for calling apis.
 Feel free to explore and follow along as I learn and create!
