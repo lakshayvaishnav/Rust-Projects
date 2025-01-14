@@ -18,5 +18,5 @@ fn main() -> Result<()> {
     println!("Headers : \n{:?}", res.headers());
     println!("Body : \n{}", body);
 
-    Ok(())
+    Ok(())  
 }
