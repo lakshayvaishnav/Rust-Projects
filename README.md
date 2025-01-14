@@ -11,4 +11,5 @@ This repository contains all my Rust learnings and projects. Here, I will docume
 - GET-REQUEST: Code to make get request to a url.
 - ASYNC-AWAIT: Code for implementing asynchronous programming.
 - API-CALLS: Code for calling apis.
+- BASIC-AUTH: Implemented basic auth in rust.
 Feel free to explore and follow along as I learn and create!
