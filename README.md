@@ -14,4 +14,4 @@ This repository contains all my Rust learnings and projects. Here, I will docume
 - BASIC-AUTH: Implemented basic auth in rust.
 - IMAGE-DOWNLOADER: code for downloading image from a url.
 - LINK-EXTRACTOR: link extractor to understand scrapers.
-
+- ACTIX-RHAI-API: build a basic api using rhai script and actix.
